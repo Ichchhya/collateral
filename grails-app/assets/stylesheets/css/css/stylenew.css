@@ -1,0 +1,44 @@
+.right{
+    padding: 5px;
+    margin-top: 2px;
+}
+.Join{
+    float: right;
+    border: 1px solid blue;
+    padding: 5px;
+    margin: 10px 5px !important;
+}
+.Join:hover{
+    /* background-color: yellow; */
+    padding: 7px;
+}
+#iconimg{
+    margin-top:10px; 
+}
+#login:hover{
+    padding: 7px;
+    background-color: lightblue;
+}
+#signin:hover{
+    padding: 7px;
+    background-color: greenyellow;
+}
+.icons{
+    align-content: center;
+    padding: 5px;
+    margin-left:50%; 
+    font-size: 30px;
+}
+.fa:hover{
+    color: lightskyblue;
+    font-size: 40px;
+    /* padding: 4px; */
+}
+.fa{
+    padding: 5px;
+}
+.FAQ{
+    
+}
+
+

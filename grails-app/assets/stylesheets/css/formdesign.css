@@ -1,0 +1,15 @@
+.design{
+height: 500px;
+background-color: white;
+margin-top: 100px;
+}
+
+.content-header{
+    background-color: transparent !important;
+    width: 100px !important ;
+}
+
+.navbar-brand img {
+    width: 400px;
+    height: 80px;
+}
